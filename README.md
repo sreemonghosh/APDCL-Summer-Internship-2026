@@ -146,6 +146,7 @@ Distribution Transformers
 LT Distribution Network
     ↓
 Consumers
+```
 
 # 🏁 Conclusion
 
