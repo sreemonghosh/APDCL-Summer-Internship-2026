@@ -36,6 +36,8 @@
 
 ---
 
+# 📖 Internship Report
+![APDCL_Summer_Internship_Report_2026](https://drive.google.com/file/d/1StjzPEG98Dwjn9b3L15lN-xRWK8koaik/view?usp=sharing)
 # 📌 About the Internship
 
 This repository contains my individual summer internship report on:
