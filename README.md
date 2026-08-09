@@ -36,8 +36,14 @@
 
 ---
 
-# 📖 Internship Report
-![APDCL_Summer_Internship_Report_2026](https://drive.google.com/file/d/1StjzPEG98Dwjn9b3L15lN-xRWK8koaik/view?usp=sharing)
+## 📑 Full Internship Report
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1StjzPEG98Dwjn9b3L15lN-xRWK8koaik/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📕%20View%20Full%20Internship%20Report-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Internship Report">
+  </a>
+</p>
+
 # 📌 About the Internship
 
 This repository contains my individual summer internship report on:
