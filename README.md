@@ -36,7 +36,7 @@
 
 ---
 
-## 📑 Full Internship Report
+# 📑 Full Internship Report
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1StjzPEG98Dwjn9b3L15lN-xRWK8koaik/view?usp=sharing">
