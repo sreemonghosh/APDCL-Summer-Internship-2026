@@ -44,6 +44,8 @@
   </a>
 </p>
 
+---
+
 # 📌 About the Internship
 
 This repository contains my individual summer internship report on:
@@ -155,6 +157,8 @@ LT Distribution Network
     ↓
 Consumers
 ```
+
+---
 
 # 🏁 Conclusion
 
