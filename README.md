@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍🎓 Student Information
+# 👨‍🎓 Student Information
 
 | Details | Information |
 |---|---|
